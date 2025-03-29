@@ -45,6 +45,6 @@ section#login > div#imagem {
     height: 200px;
 }
 section#login > div#formulario {
-    display: block;
+display: block;
 padding: 10px;
 }
